@@ -1,4 +1,4 @@
-# ECE 531 Introducion to IOT
+# ECE 531 Introduction to IOT
 ## Smart Thermostat REST API
 
 
